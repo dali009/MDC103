@@ -74,6 +74,13 @@ class _LoginPageState extends State<LoginPage> {
                   },
                 ),
                 // TODO: Add an elevation to NEXT (103)
+                ElevatedButton(
+                  child: const Text('NEXT'),
+                  // New code
+                  style: ButtonStyle(
+                    elevation: MaterialStateProperty.all(8.0),
+                  ),
+                ),
                 // TODO: Add a beveled rectangular border to NEXT (103)
                 ElevatedButton(
                   child: const Text('NEXT'),

@@ -85,6 +85,7 @@ class _LoginPageState extends State<LoginPage> {
                 elevation: MaterialStateProperty.all(8.0),
                 shape: MaterialStateProperty.all(
                   const BeveledRectangleBorder(
+
                     borderRadius: BorderRadius.all(Radius.circular(7.0)),
                   ),
                 ),

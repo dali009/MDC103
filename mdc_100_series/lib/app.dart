@@ -53,17 +53,30 @@ class ShrineApp extends StatelessWidget {
 }
 
 // TODO: Build a Shrine Theme (103)
-final ThemeData _kShrineTheme = _buildShrineTheme();
-
 ThemeData _buildShrineTheme() {
   final ThemeData base = ThemeData.light();
   return base.copyWith(
     colorScheme: base.colorScheme.copyWith(
-      primary: kShrinePink100,
-      onPrimary: kShrineBrown900,
-      secondary: kShrineBrown900,
+      primary: kShrinePurple,
+      secondary: kShrinePurple,
       error: kShrineErrorRed,
     ),
+    scaffoldBackgroundColor: kShrineSurfaceWhite,
+    textTheme: _buildShrineTextTheme(base.textTheme),
+    textSelectionTheme: const TextSelectionThemeData(
+      selectionColor: kShrinePurple,
+    ),
+    inputDecorationTheme: const InputDecorationTheme(
+      focusedBorder: CutCornersBorder(
+        borderSide: BorderSide(
+          width: 2.0,
+          color: kShrinePurple,
+        ),
+      ),
+      border: CutCornersBorder(),
+    ),
+  );
+}
     // TODO: Add the text themes (103)
     textTheme: _buildShrineTextTheme(base.textTheme),
     textSelectionTheme: const TextSelectionThemeData(

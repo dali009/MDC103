@@ -5,9 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf7a495f-45bc-43aa-afa9-850400efd7a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/assets/2.0x/slanted_menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/assets/2.0x/slanted_menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/assets/3.0x/slanted_menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/assets/3.0x/slanted_menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/assets/slanted_menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/assets/slanted_menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/fonts/Rubik-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/fonts/Rubik-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/fonts/Rubik-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/fonts/Rubik-Regular.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mdc_100_series/lib/app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/lib/app.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/lib/colors.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/lib/colors.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mdc_100_series/lib/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/lib/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/lib/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/lib/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/lib/model/product.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/lib/model/product.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/lib/model/products_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/lib/model/products_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,5 +74,16 @@
       <updated>1629810845208</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
